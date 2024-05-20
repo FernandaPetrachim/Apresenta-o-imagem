@@ -1,7 +1,7 @@
 # Apresenta-o-imagem
-Carta de apresentação
+Carta de apresentação: 
 ​
-​Olá! Sou Fernanda, apaixonada pela área da saúde e tecnologia!
+<p>​Olá! Sou Fernanda, apaixonada pela área da saúde e tecnologia!</p>
 
 Atualmente, sou estudante na Trybe, cursando Desenvolvimento Web Full Stack. Tenho 31 anos, sou comunicativa, criativa e extremamente proativa. Embora minha formação acadêmica e experiência profissional anterior estejam centradas na área da saúde, estou entusiasmada com a possibilidade de fazer uma transição para a indústria de tecnologia, onde acredito que posso aplicar minhas habilidades e aprender rapidamente.
 
